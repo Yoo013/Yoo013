@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi, I'm Muhammad Raka Alfathan 👋  <br>**Frontend Developer | React Enthusiast | Passionate Learner**  <br><br>I specialize in crafting user-friendly, visually appealing web interfaces using modern web technologies. With a keen eye for detail and a commitment to delivering clean, efficient code, I strive to create seamless digital experiences.  <br><br>💻 Tech I love: React, Vite, JavaScript, HTML, CSS  <br>🌟 Always learning and exploring new frontend trends  <br>📍 Based in Bekasi, Indonesia  <br><br>Let's build something amazing together! 🚀  <br>
+# Hi, I'm Muhammad Raka Alfathan 👋  <br>**Frontend Developer | React Enthusiast | Passionate Learner**  <br><br>I specialize in crafting user-friendly, visually appealing web interfaces using modern web technologies. With a keen eye for detail and a commitment to delivering clean, efficient code, I strive to create seamless digital experiences.  <br><br>💻 Tech I love: React, Vite,Laravel,PHP, JavaScript, HTML, CSS  <br>🌟 Always learning and exploring new frontend trends  <br>📍 Based in Bekasi, Indonesia  <br><br>Let's build something amazing together! 🚀  <br>
 
 
 ## 🌐 Socials:
