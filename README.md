@@ -41,6 +41,10 @@ I enjoy working across the entire stack — from crafting responsive frontends t
 
 ### 📊 Stats
 
-![Yoo013's GitHub stats](https://github-readme-stats.vercel.app/api?username=alfraka3-7986&show_icons=true&theme=gruvbox)
+### 📊 Stats
+
+![Yoo013's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yoo013&show_icons=true&theme=gruvbox)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Yoo013&theme=gruvbox&border_radius=4.5)
+
+![Top Langs](https://github-readme-stats-alfraka3-7986.vercel.app/api/top-langs/?username=Yoo013&layout=compact&theme=gruvbox)
