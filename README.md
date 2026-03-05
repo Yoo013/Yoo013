@@ -44,3 +44,9 @@ I enjoy working across the entire stack — from crafting responsive frontends t
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Yoo013&theme=gruvbox&border_radius=4.5)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yoo013/Yoo013/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yoo013/Yoo013/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Yoo013/Yoo013/output/pacman-contribution-graph.svg">
+</picture>
+
