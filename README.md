@@ -61,6 +61,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/maurodesouza/Yoo013/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Yoo013/output/snake.svg" alt="Snake animation" />
 
 ###
